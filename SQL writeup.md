@@ -11,6 +11,7 @@ This SQL project at SZA LLC will result in a well-organized and secure data envi
 By addressing these tasks, we aim to create a robust SQL foundation that aligns seamlessly with SZA LLC’s business objectives....
 
 1. What is the total sales revenue for all the dataset?
+
 ![image](https://github.com/user-attachments/assets/d3b935dd-d42b-4138-b38f-0b66da66e4ff)
 
 
