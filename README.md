@@ -16,6 +16,7 @@ By addressing these tasks, we aim to create a robust SQL foundation that aligns 
 ![image](https://miro.medium.com/v2/resize:fit:532/format:webp/1*WMaNmF6oURbsJZBaJhZPug.png)
 
 2. What is the total profit for all orders in the dataset?
+
 ![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*D2HHm80sETQBL4lGIjIjoA.png)
 ![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*JdsAhFtcpYKwpqkrdEQrjA.png)
 3. How many orders are in the dataset?
