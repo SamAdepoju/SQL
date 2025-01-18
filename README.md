@@ -13,7 +13,7 @@ By addressing these tasks, we aim to create a robust SQL foundation that aligns 
 1. What is the total sales revenue for all the dataset?
 
 ![image](https://github.com/user-attachments/assets/d3b935dd-d42b-4138-b38f-0b66da66e4ff)
-
+![image](https://miro.medium.com/v2/resize:fit:532/format:webp/1*WMaNmF6oURbsJZBaJhZPug.png)
 
 2. What is the total profit for all orders in the dataset?
 
