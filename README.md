@@ -8,7 +8,7 @@ This SQL project is poised to revolutionize how SZA LLC manages, accesses, and u
 
 This SQL project at SZA LLC will result in a well-organized and secure data environment, empowering the company to make data-driven decisions, streamline operations, and enhance overall productivity.
 
-By addressing these tasks, we aim to create a robust SQL foundation that aligns seamlessly with SZA LLC’s business objectives....
+By addressing these tasks, we aim to create a robust SQL foundation that aligns seamlessly with SZA LLC’s business objectives.
 
 1. What is the total sales revenue for all the dataset?
 
