@@ -20,11 +20,24 @@ By addressing these tasks, we aim to create a robust SQL foundation that aligns 
 
 ![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*D2HHm80sETQBL4lGIjIjoA.png)
 ![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*JdsAhFtcpYKwpqkrdEQrjA.png)
+
+
+
 3. How many orders are in the dataset?
+
+![image](https://miro.medium.com/v2/resize:fit:570/format:webp/1*XD3Gn56S5EHyLSoPRwZpTA.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*b7MkopQLjR7y6AkjaJPFZg.png)
+
 
 4. What is the average discount applied to orders?
 
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*KMSbnOgin_m8xs44qOilyA.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*CpE0gKbXBW77aELy90PZtA.png)
+
+
 5. Which product category has the most orders?
+
+
 
 6. What is the most profitable product?
 
