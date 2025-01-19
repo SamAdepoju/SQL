@@ -98,18 +98,37 @@ By addressing these tasks, we aim to create a robust SQL foundation that aligns 
  1. Monthly Sales Trend
 Create a view that shows the monthly sales trend for each year. Include the year, month, and total sales for each month.
 
+![image](https://miro.medium.com/v2/resize:fit:478/format:webp/1*x66i3tF4oTVHXKojrT6k7w.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZAT7s32G4KcfiIdRhC7jYg.jpeg)
+
+
  2. Identify customers who have made at least five purchases and calculate their average order value.
+
+
+ ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*RtaHxAs1QVE45ZMsLdlQiA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xm3D2K998pL2JGe65VoLLg.jpeg)
 
 3. Product Category Ranking
 Rank product categories by total sales in descending order using window functions.
 
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*E9YsrHQZt2siFRLeJ8OgJA.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*5JlE406LcaUc-SGk8KRLBA.png)
+
 4. Find the top 5 customers who have made the highest total sales in each state, along with the product category they mostly purchased. Use a Common Table Expression (CTE) to calculate the total sales for each customer in each state, and then retrieve the top 5 customers for each state. Additionally, provide the product category that these top customers predominantly bought in each state.
 
- 5. Yearly Growth Rate
-Calculate the yearly growth rate in sales from one year to the next, using window functions.
 
- 6. Category Sales Growth
-Calculate the year-over-year growth in sales for each product category.
+![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*y_DW57-J6IPMg7cUBcppJA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xu3zVKS0IzyTEqex4tq4xg.jpeg)
+
+ 5. Yearly Growth Rate Calculate the yearly growth rate in sales from one year to the next, using window functions.
+
+ ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*LM1mEZxWezXdMzK9rkOfzA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*ouHSLgPmQQHX-Rbf6bwLZw.jpeg)
+
+ 6. Category Sales Growth Calculate the year-over-year growth in sales for each product category.
+
+ ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Cy1vkknCPULMr81ZoqCL8w.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*0KPPWK5tgRFmiTS2LbT0VQ.jpeg)
 
 # Conclusion
 
