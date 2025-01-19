@@ -37,23 +37,61 @@ By addressing these tasks, we aim to create a robust SQL foundation that aligns 
 
 5. Which product category has the most orders?
 
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*VVA0Z6oK9Ju0rAyW14sPzQ.png)
+![image](https://miro.medium.com/v2/resize:fit:522/format:webp/1*a3FfouZX3ii7jeLuTT5ZdA.png)
+
+
 
 
 6. What is the most profitable product?
 
+
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*AbgCGCiS2bUHGNpN-neZgw.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:602/format:webp/1*WsJk_ETRO4Cpa-Jkvi51gw.jpeg)
+
+
 7. What orders were returned and what percentage of all orders does this represent?
+
+
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*HfXYwWMoM2ZLfPwtuFHdeA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*cEueKxCvLxMvgcIdFsdQKw.jpeg)
+
 
  8. What are the top 5 customers based on their total spendings?
 
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*bnMhdVCb7rZX1d2-pTpbFg.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*iZKwbeNk12ortjGVN4fdvQ.png)
+
+
  9. What is the total sales revenue for each region?
+
+
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*HTkLJf0Iz2DMlWCZ-c2rYA.png)
+![image](https://miro.medium.com/v2/resize:fit:590/format:webp/1*4MsxwUNCvh0EV437lNf1TA.png)
 
 10. How many orders were placed in each year?
 
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*-I8BgBe1UjwSMRT-7LklAQ.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BJNPJP7zZbdclWMoiMicnA.png)
+
+
 11. What is the average discount for each product category?
+
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*JC9-874KSEf6-ypncfDd9g.png)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*nvwrxQnkSAZ8ku4LXj9LQA.png)
+
 
 12. How many returned orders are there for each product category?
 
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*IB4MGmy7axbc97O_TbR1WA.jpeg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*oJetkAQs2vemsJKRMvNW8w.jpeg)
+
+
 13. Which customers have returned orders, and how many times?
+
+![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*BXMhYN4Bgb3PXExcxPBWFw.jpeg)
+![image](https://cdn-images-1.medium.com/max/800/1*XYFXW9jujzM_DUViNWXmAQ.png)
+
 
 # Advanced
 
